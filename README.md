@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Crowdfunding-in-blockchain
 
 ## Problem Statement and Necessity 
@@ -35,3 +36,6 @@ We were highly inspired by the CryptoRelief initiative ([www.cryptorelief.in](ht
 - run `yarn install` to install all the dependencies
 - run `yarn dev` to run the application locally
 
+=======
+# crowdfunding
+>>>>>>> 5491aedee21060d0deb686c1d8b087387391020c
