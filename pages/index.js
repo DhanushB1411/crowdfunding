@@ -330,13 +330,13 @@ export default function Home({ campaigns }) {
             />
           </SimpleGrid>
           <Heading as="h2" size="lg" mt="8">
-            For any queries raise an issue on{" "}
+            
             <Link
               color="teal.500"
-              href="https://github.com/harsh242/betterfund-crowdfunding-in-blockchain/issues"
+              href=""
               isExternal
             >
-              the Github Repo <ExternalLinkIcon mx="2px" />
+    
             </Link>{" "}
           </Heading>
           <Divider marginTop="4" />
